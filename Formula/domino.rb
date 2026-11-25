@@ -2,9 +2,9 @@ class Domino < Formula
   desc "Command-line proxy management and independent deployment"
   homepage "https://github.com/KJaebye/domino"
   license "GPL-3.0-only"
-  url "https://github.com/KJaebye/domino/releases/download/v1.3.0/domino-runtime-1.3.0.tar.gz"
-  version "1.3.0"
-  sha256 "40a56c46f370a351423875ead22e6296637ba686676a419c8c066f692131c168"
+  url "https://github.com/KJaebye/domino/releases/download/v1.3.1/domino-runtime-1.3.1.tar.gz"
+  version "1.3.1"
+  sha256 "abb7dc619561b05669120dcb8d1a3e7c56a967e880353a90d5a9d373002808e5"
   depends_on "python@3.13"
 
   def install
